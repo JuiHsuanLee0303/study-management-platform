@@ -1,9 +1,5 @@
 /study-management-platform-frontend/node_modules
 /study-management-platform-frontend/.env
-/study-management-platform-frontend/package-lock.json
-/study-management-platform-frontend/package.json
 /study-management-platform-backend/node_modules
 /study-management-platform-backend/.env
-/study-management-platform-backend/package-lock.json
-/study-management-platform-backend/package.json
 /study-management-platform-backend/.vscode
